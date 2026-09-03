@@ -1,0 +1,2 @@
+# Deterministic-Module-508-Allocator-Prime-OmegaPrime4C.ts
+A deterministic allocator‑prime‑omega‑prime‑four‑C module that distributes normalized payloads using omega‑prime‑four‑C indexed prime partitions, strict type guarantees, immutable state propagation, and reproducible cycle‑aligned omega‑prime‑four‑C allocation to ensure drift‑free distribution across Beast System 3.0’s deterministic runtime.
